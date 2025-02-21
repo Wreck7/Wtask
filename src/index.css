@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "tailwindcss/utilities";
+deBtns{
+    @apply
+    p-2 py-1 font-bold text-sm text-white rounded cursor-pointer bg-emerald-600 mx-2 hover:bg-zinc-700 transition-colors duration-900 ease-out
+}
+body{
+    background-color: #46464d67;
+}
